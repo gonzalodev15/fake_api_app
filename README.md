@@ -21,3 +21,6 @@ fetchUsers: Solicita los datos de usuarios y los transforma en una lista de obje
 
 # Control de Errores
 Se utiliza Either para manejar errores en las solicitudes a la API. En caso de éxito, devuelve un Right con los datos, y en caso de error, devuelve un Left con un mensaje de error.
+
+# Prueba de la aplicación
+Esta aplicación se activa cuando el usuario le da tap al botón flotante, esto acciona las consultas a la API y, una vez se obtiene la respuesta, se muestra la información en la consola.
