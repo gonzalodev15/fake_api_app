@@ -1,5 +1,5 @@
 # fake_api_app
- App for testing api's in Flutter
+App for testing api's in Flutter
 
 # Modelos de Datos
 Product: Representa un producto con id, title, description, price, category, image y rating.
